@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block head_title %}
+{{ instance.name}} | {{ block.super }}
+{% endblock head_title %}
+
+
+
+{% block content %}
+<div class='col-sm-6 col-sm-offset-3'>
+
+<h1>{{ "Vous avez entré les informations suivantes :"}}</h1>
+
+{{ "Nom :" }}&nbsp;{{ title }}<br/>
+
+{{ "Adresse :" }}&nbsp;{{ instance.num_street }}&nbsp;{{ instance.type_street }}&nbsp;{{ instance.name_street }}&nbsp;{{ "à" }}&nbsp;{{ instance.city }}<br/><br/>
+{{ instance.doctor.id }}&nbsp;{{ instance.doctor.name }}
+
+<p> <a href="{{ 'select' }}" class="btn btn-primary" role="button">Confirmer</a>
+	<a href="{{ 'edit' }}" class="btn btn-primary" role="button">Modifier</a>
+<p>
+
+</div>
+
+{% endblock content %}
+

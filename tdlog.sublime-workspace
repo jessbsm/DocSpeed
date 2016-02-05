@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"instan",
+				"instance1"
+			],
+			[
+				"ge",
+				"get_object_or_404"
+			],
+			[
+				"doctor",
+				"doctor_select"
+			],
+			[
+				"patient",
+				"patient_create"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"na",
+				"name_street"
+			],
+			[
+				"n",
+				"num_street"
+			],
+			[
+				"doc",
+				"doctor_list"
+			],
+			[
+				"pati",
+				"patient_create"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"Po",
+				"PostModelAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/doctors/views.py",
+			"settings":
+			{
+				"buffer_size": 3844,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/doctors/models.py",
+			"settings":
+			{
+				"buffer_size": 2904,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/doctors/urls.py",
+			"settings":
+			{
+				"buffer_size": 1085,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/cancel.html",
+			"settings":
+			{
+				"buffer_size": 417,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/doctor_select.html",
+			"settings":
+			{
+				"buffer_size": 763,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/doctors_around.html",
+			"settings":
+			{
+				"buffer_size": 575,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"sspy",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/doctors_around.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/tdlog/urls.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/doctor_detail.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/doctors/models.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/patient_detail.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/doctors/views.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/patient_choice.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/doctor_list.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/doctor_select.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/register.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/index.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/doctors/apps.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/patient_form.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/patient_update.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/doctor_update.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/doctor_form.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/doctors/forms.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/static_cdn/admin/css/forms.css",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/cancel.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/doctors/urls.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/doctors/admin.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/people/forms.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/people/models.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/people/views.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/tdlog/wsgi.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/people/admin.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/tdlog/settings.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/people/urls.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/people/apps.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/patients/models.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/patients/urls.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/patients/views.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/patients/forms.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/patients/admin.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/patients/migrations/urls.py",
+		"/Users/jalelbenerrami/Desktop/tdlog/tdlog.sublime-project",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/base.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/static/css/base.css",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/home.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/messages_display.html",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/templates/doctor_detail",
+		"/Users/jalelbenerrami/Desktop/tdlog/src/crdu.md",
+		"/Users/jalelbenerrami/Desktop/projet_tdlog/src/doctors/admin.py",
+		"/Users/jalelbenerrami/Desktop/projet_tdlog/src/crud.md",
+		"/Users/jalelbenerrami/Desktop/projet_tdlog/src/projetTDLOG/settings.py",
+		"/Users/jalelbenerrami/Desktop/projet_tdlog/src/doctors/models.py",
+		"/Users/jalelbenerrami/Desktop/projet_tdlog/src/doctors/migrations/0001_initial.py",
+		"/Users/jalelbenerrami/Desktop/trydjango19/src/posts/models.py",
+		"/Users/jalelbenerrami/Desktop/trydjango19/src/posts/views.py",
+		"/Users/jalelbenerrami/Desktop/trydjango19/src/crud.md",
+		"/Users/jalelbenerrami/Desktop/trydjango19/src/db.sqlite3",
+		"/Users/jalelbenerrami/Desktop/trydjango19/src/posts/admin.py",
+		"/Users/jalelbenerrami/Desktop/trydjango19/trydjango19.sublime-project",
+		"/Users/jalelbenerrami/Desktop/trydjango19/src/trydjango19/settings.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"abs",
+			"tot",
+			"pe",
+			"id",
+			"h1",
+			"doctors"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/doctors/views.py",
+					"settings":
+					{
+						"buffer_size": 3844,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 16.0,
+						"translation.y": 985.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/doctors/models.py",
+					"settings":
+					{
+						"buffer_size": 2904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1746,
+								2899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 506.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/doctors/urls.py",
+					"settings":
+					{
+						"buffer_size": 1085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								933,
+								933
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 35.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/cancel.html",
+					"settings":
+					{
+						"buffer_size": 417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/doctor_select.html",
+					"settings":
+					{
+						"buffer_size": 763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/templates/doctors_around.html",
+					"settings":
+					{
+						"buffer_size": 575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}

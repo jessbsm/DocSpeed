@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block head_title %}
+{{ "Inscription enregistrée" }}
+{% endblock head_title %}
+
+
+
+{% block content %}
+<div class='col-sm-6 col-sm-offset-3'>
+<h1>{{ "Vous venez de vous inscrire chez Dr "}}{{ doc.name }}{{ "au nom de "}}{{ pat.nam }}</h1>
+
+
+<h1>{{ "Pour rappel, le temps d'attente est estimé à "}}{{ doc.waiting_time }}</h1>
+</br>
+</br>
+</br>
+<p><a href='/home/' class="btn btn-primary" role="button">Retour à la page d'accueil</a>
+	<a href='/doctor/' class="btn btn-primary" role="button">Voir la liste des médecins</a>
+	<a href="" class="btn btn-primary" role="button">Voir l'itinéraire</a>
+<p>
+
+</div>
+
+{% endblock content %}
+

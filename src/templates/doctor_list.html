@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<div class='col-sm-8 col-sm-offset-2'>
+<h1>{{ title }}</h1>
+
+{% for doc in doctors_list %}
+
+
+
+<div class="row">
+  <div class="col-sm-9" > 
+    <div class="thumbnail">
+      <div class="caption">
+        <h3>{{ doc.name }}</h3>
+        <p>{{ doc.speciality }}</p>
+        <p><a href="/doctor/{{doc.id}}" class="btn btn-primary" role="button">Voir les informations</a> 
+      </div>
+    </div>
+  </div>
+</div>
+<hr/> 
+
+
+{% endfor %}
+
+</div>
+
+{% endblock content %}

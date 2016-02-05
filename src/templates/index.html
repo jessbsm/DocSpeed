@@ -1,0 +1,24 @@
+<!--DOCTYPE html -->
+<html>
+
+
+<body>
+<h1>{{ title }} is working!</h1>
+
+{% for obj in object_list %}
+/doctors/id/
+{% url "doctor:detail" id=obj.id %}
+<a href='{% url "detail" id=obj.id %}'>{{ obj.name }}</a><br/>
+{{ obj.address }}<br/>
+{{ obj.phone }}<br/>
+{{ obj.schedule }}<br/>
+{{ obj.photo }}<br/>
+{{ obj.id }}<br/>
+
+{% endfor %}z
+
+
+</body>
+
+</html>
+

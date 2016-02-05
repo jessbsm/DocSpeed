@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block head_title %}
+{{ instance.name}} | {{ block.super }}
+{% endblock head_title %}
+
+
+
+{% block content %}
+<div class='col-sm-6 col-sm-offset-3'>
+<h1>{{ title }}<small>{{ instance.speciality }}</small></h1>
+
+{{ instance2.num_street }}&nbsp;{{ instance2.type_street }}&nbsp;{{ instance2.name_street }}&nbsp;{{ "à" }}&nbsp;{{ instance2.city }}<br/>
+{{ instance2.phone }}<br/>
+{{ instance2.schedule | linebreaks }}<br/>
+<!-- {{ instance.id }}<br/> -->
+
+<h1>{{ "Temps d'attente estimé à" }}&nbsp;{{ instance2.waiting_time }}</h1>
+<p><a href="{{ "register" }}" class="btn btn-primary" role="button">S'inscrire</a>
+	<a href="{{ "cancel" }}" class="btn btn-primary" role="button">Ne pas s'inscrire</a>
+<p>
+
+</div>
+
+{% endblock content %}
+
